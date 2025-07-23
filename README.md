@@ -1,0 +1,3 @@
+These two arduino sketches are used to calculate chip temperature and its Vcc voltage and show results on serial terminal.
+They works only in arduino UNO, it cannot work other arduino hardware. Because it uses Atmega328 ADC hardware and its measurement channels.
+I hope those sketches ispires other people to use the microcontrollers internal hardware...
